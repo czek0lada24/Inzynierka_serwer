@@ -1,0 +1,13 @@
+5900497311502;Pepsi 1.5l;Plastik
+5906747308490;Delicje malinowe;Plastik
+7622210078131;Czekolada Milka Daim;Plastik
+5900334001047;Sok Tymbark Kaktus;Plastik
+5900334005519;Sok Tymbark Żurawina;Plastik
+5902180020104;Ryż Sonko;Papier
+5712873838714;Pesto LaCampagna Rosso;Szkło
+5901713001016;Czerwona fasola Dawtona;Plastik
+5901713001759;Kukurydza słodka Dawtona;Plastik
+7622210194961;Ciastka Honey&Nut BelVita;Papier
+5900541000383;Woda zywiec truskawkowa;Plastik
+5900699104391;Piwo warka malina z cytryna;Plastik
+8000500179864;Nutella;Plastik
