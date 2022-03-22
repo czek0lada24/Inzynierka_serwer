@@ -2,7 +2,7 @@ import db_com
 
 if __name__ == "__main__":
     db_com.init()
-    file_handler=open("products.txt", "r") #otwieramy plik txt do trybu read
+    file_handler=open("products.txt", "r", encoding="UTF-8") #otwieramy plik txt do trybu read
     lines=file_handler.readlines()
     for line in lines:
         tmp=line.split(";")

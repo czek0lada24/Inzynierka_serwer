@@ -11,3 +11,8 @@
 5900541000383;Woda zywiec truskawkowa;Plastik
 5900699104391;Piwo warka malina z cytryna;Plastik
 8000500179864;Nutella;Plastik
+7613031918881;Kawa Nescafe;Szkło
+5906372757342;Karma dla kotów Kitty;Metal
+5900935000784;Chusteczki higieniczne kontener;Papier
+7622200007332;Czekolada Milka Strawberry;Plastik
+5901359094052;Piwo test znaków ęąśćóżźń;Metal
